@@ -26,8 +26,8 @@ Output(2,2,"ADVENTURE! Made by
 Output(3,2,"Spencer Boggs.
 Pause 
 ClrHome
-getKey→D
-If D=52
-Output(3,2,"Hello
-If D=105
-Output(3,2,"Hi
+:getKey→D
+:If D=52
+:Output(3,2,"Hello
+:If D=105
+:Output(3,2,"Hi
